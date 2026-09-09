@@ -7,7 +7,7 @@ std::cout<<"entrer votre nom" ;
 std::cin.getline(nom,30);
   std::cout<<"entrer votre ville" ;
 std::cin.getline(ville,30);
-std::cout<<nom<<std::endl;
-std::cout<<ville<<std::endl;
+std::cout<<nom<<"\n";
+std::cout<<ville<<"\n";
 return 0 ;
 }
