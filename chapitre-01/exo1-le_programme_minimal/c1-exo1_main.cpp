@@ -7,5 +7,5 @@ std::cin>>nom ;
 std::cin>>ville ;
 std::cout<<nom<<std::endl;
 std::cout<<ville<<std::endl;
-retun 0 ;
+return 0 ;
 }
