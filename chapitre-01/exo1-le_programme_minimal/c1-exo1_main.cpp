@@ -1,8 +1,8 @@
 #include<iostream>
-#include<string>
 int main()
 {
-  std::string nom , ville ;
+char nom[30];
+  ville[30];
 std::cin>>nom ;
 std::cin>>ville ;
 std::cout<<nom<<"\n";
